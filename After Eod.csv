@@ -1,0 +1,201 @@
+id;Nama;Age;Balanced;Previous Balanced;Average Balanced;Free Transfer;No 1 Thread-No;No 2a Thread-No;No 2b Thread-No;No 3 Thread-No
+1;Liam;36;207;164;180;25;main pool-1-thread-1;null;main pool-2-thread-1;main pool-3-thread-4
+2;Noah;39;185;71;128;25;main pool-1-thread-2;null;main pool-2-thread-2;null
+3;Oliver;51;78;81;79;4;main pool-1-thread-3;null;null;null
+4;Elijah;39;52;106;79;1;main pool-1-thread-4;null;null;null
+5;William;34;116;61;88;5;main pool-1-thread-5;main pool-2-thread-2;null;null
+6;James;30;67;142;104;4;main pool-1-thread-6;null;null;null
+7;Benjamin;46;200;126;158;25;main pool-1-thread-7;null;main pool-2-thread-4;main pool-3-thread-7
+8;Lucas;24;120;191;155;5;main pool-1-thread-8;main pool-2-thread-3;null;null
+9;Henry;37;182;104;143;25;main pool-1-thread-9;null;main pool-2-thread-1;null
+10;Alexander;44;186;143;164;25;main pool-1-thread-10;null;main pool-2-thread-2;null
+11;Mason;21;165;182;173;25;main pool-1-thread-11;null;main pool-2-thread-5;null
+12;Michael;31;157;149;153;25;main pool-1-thread-12;null;main pool-2-thread-4;null
+13;Ethan;41;110;180;145;5;main pool-1-thread-13;main pool-2-thread-2;null;null
+14;Daniel;44;99;84;91;3;main pool-1-thread-14;null;null;null
+15;Jacob;28;76;181;128;1;main pool-1-thread-15;null;null;null
+16;Logan;21;75;173;124;2;main pool-1-thread-16;null;null;null
+17;Jackson;37;145;116;130;5;main pool-1-thread-17;main pool-2-thread-5;null;null
+18;Levi;29;57;83;70;2;main pool-1-thread-18;null;null;null
+19;Sebastian;33;142;88;115;5;main pool-1-thread-19;main pool-2-thread-3;null;null
+20;Mateo;47;206;200;198;25;main pool-1-thread-20;null;main pool-2-thread-4;main pool-3-thread-5
+21;Jack;37;160;119;139;25;main pool-1-thread-21;null;main pool-2-thread-2;null
+22;Owen;43;55;65;60;4;main pool-1-thread-22;null;null;null
+23;Theodore;32;181;102;141;25;main pool-1-thread-23;null;main pool-2-thread-3;null
+24;Aiden;50;118;128;123;5;main pool-1-thread-24;main pool-2-thread-5;null;null
+25;Samuel;39;83;64;73;3;main pool-1-thread-25;null;null;null
+26;Joseph;52;158;123;140;25;main pool-1-thread-26;null;main pool-2-thread-2;null
+27;John;49;188;104;146;25;main pool-1-thread-27;null;main pool-2-thread-4;null
+28;David;47;124;139;131;5;main pool-1-thread-28;main pool-2-thread-6;null;null
+29;Wyatt;40;84;119;101;2;main pool-1-thread-29;null;null;null
+30;Matthew;39;57;64;60;1;main pool-1-thread-30;null;null;null
+31;Luke;26;144;82;113;5;main pool-1-thread-31;main pool-2-thread-4;null;null
+32;Asher;30;133;73;103;5;main pool-1-thread-32;main pool-2-thread-2;null;null
+33;Carter;45;151;191;171;25;main pool-1-thread-33;null;main pool-2-thread-5;null
+34;Julian;48;101;152;126;5;main pool-1-thread-34;main pool-2-thread-6;null;null
+35;Grayson;31;120;150;135;5;main pool-1-thread-35;main pool-2-thread-3;null;null
+36;Leo;34;180;175;177;25;main pool-1-thread-36;null;main pool-2-thread-1;null
+37;Jayden;21;51;179;115;3;main pool-1-thread-37;null;null;null
+38;Gabriel;46;57;129;93;0;main pool-1-thread-38;null;null;null
+39;Isaac;45;132;82;107;5;main pool-1-thread-39;main pool-2-thread-5;null;null
+40;Lincoln;24;135;152;143;5;main pool-1-thread-40;main pool-2-thread-3;null;null
+41;Anthony;27;157;177;167;25;main pool-1-thread-41;null;main pool-2-thread-4;null
+42;Hudson;45;88;105;96;3;main pool-1-thread-42;null;null;null
+43;Dylan;29;209;182;190;25;main pool-1-thread-29;null;main pool-2-thread-6;main pool-3-thread-2
+44;Ezra;22;65;177;121;0;main pool-1-thread-20;null;null;null
+45;Thomas;31;80;93;86;3;main pool-1-thread-8;null;null;null
+46;Charles;44;79;127;103;0;main pool-1-thread-12;null;null;null
+47;Christopher;31;204;122;158;25;main pool-1-thread-14;null;main pool-2-thread-4;main pool-3-thread-7
+48;Jaxon;41;64;128;96;1;main pool-1-thread-34;null;null;null
+49;Maverick;40;66;147;106;4;main pool-1-thread-36;null;null;null
+50;Josiah;43;145;74;109;5;main pool-1-thread-18;main pool-2-thread-6;null;null
+51;Isaiah;20;185;152;168;25;main pool-1-thread-31;null;main pool-2-thread-5;null
+52;Andrew;51;149;137;143;5;main pool-1-thread-7;main pool-2-thread-4;null;null
+53;Elias;45;180;102;141;25;main pool-1-thread-15;null;main pool-2-thread-2;null
+54;Joshua;46;123;100;111;5;main pool-1-thread-21;main pool-2-thread-6;null;null
+55;Nathan;53;119;118;118;5;main pool-1-thread-37;main pool-2-thread-5;null;null
+56;Caleb;23;156;122;139;25;main pool-1-thread-25;null;main pool-2-thread-4;null
+57;Ryan;33;167;64;115;25;main pool-1-thread-22;null;main pool-2-thread-6;null
+58;Adrian;40;156;77;116;25;main pool-1-thread-10;null;main pool-2-thread-7;null
+59;Miles;32;114;134;124;5;main pool-1-thread-26;main pool-2-thread-2;null;null
+60;Eli;23;62;170;116;3;main pool-1-thread-24;null;null;null
+61;Nolan;20;122;91;106;5;main pool-1-thread-16;main pool-2-thread-7;null;null
+62;Christian;21;181;81;131;25;main pool-1-thread-17;null;main pool-2-thread-6;null
+63;Aaron;21;145;124;134;5;main pool-1-thread-38;main pool-2-thread-4;null;null
+64;Cameron;29;204;174;184;25;main pool-1-thread-2;null;main pool-2-thread-6;main pool-3-thread-8
+65;Ezekiel;50;139;112;125;5;main pool-1-thread-9;main pool-2-thread-7;null;null
+66;Colton;27;133;154;143;5;main pool-1-thread-27;main pool-2-thread-4;null;null
+67;Luca;29;53;96;74;4;main pool-1-thread-1;null;null;null
+68;Landon;52;199;100;144;25;main pool-1-thread-4;null;main pool-2-thread-4;main pool-3-thread-8
+69;Hunter;36;155;82;118;25;main pool-1-thread-41;null;main pool-2-thread-7;null
+70;Jonathan;37;63;171;117;2;main pool-1-thread-28;null;null;null
+71;Santiago;43;118;154;136;5;main pool-1-thread-23;main pool-2-thread-5;null;null
+72;Axel;31;126;95;110;5;main pool-1-thread-43;main pool-2-thread-3;null;null
+73;Easton;46;91;168;129;1;main pool-1-thread-12;null;null;null
+74;Cooper;43;106;197;151;5;main pool-1-thread-1;main pool-2-thread-8;null;null
+75;Jeremiah;30;94;191;142;2;main pool-1-thread-27;null;null;null
+76;Angel;28;82;124;103;2;main pool-1-thread-14;null;null;null
+77;Roman;52;110;73;91;5;main pool-1-thread-29;main pool-2-thread-3;null;null
+78;Connor;28;97;163;130;1;main pool-1-thread-28;null;null;null
+79;Jameson;48;206;186;191;25;main pool-1-thread-33;null;main pool-2-thread-7;main pool-3-thread-6
+80;Robert;40;123;102;112;5;main pool-1-thread-13;main pool-2-thread-4;null;null
+81;Greyson;32;153;155;154;25;main pool-1-thread-35;null;main pool-2-thread-6;null
+82;Jordan;49;108;102;105;5;main pool-1-thread-1;main pool-2-thread-9;null;null
+83;Ian;40;74;136;105;4;main pool-1-thread-14;null;null;null
+84;Carson;41;94;92;93;4;main pool-1-thread-43;null;null;null
+85;Jaxson;44;101;158;129;5;main pool-1-thread-32;main pool-2-thread-4;null;null
+86;Leonardo;35;122;104;113;5;main pool-1-thread-28;main pool-2-thread-7;null;null
+87;Nicholas;53;158;62;110;25;main pool-1-thread-33;null;main pool-2-thread-6;null
+88;Dominic;50;113;66;89;5;main pool-1-thread-29;main pool-2-thread-8;null;null
+89;Austin;21;120;96;108;5;main pool-1-thread-13;main pool-2-thread-2;null;null
+90;Everett;51;95;190;142;2;main pool-1-thread-1;null;null;null
+91;Brooks;20;158;103;130;25;main pool-1-thread-35;null;main pool-2-thread-4;null
+92;Xavier;20;126;103;114;5;main pool-1-thread-14;main pool-2-thread-9;null;null
+93;Kai;39;187;64;125;25;main pool-1-thread-32;null;main pool-2-thread-7;null
+94;Jose;38;129;148;138;5;main pool-1-thread-19;main pool-2-thread-1;null;null
+95;Parker;39;144;154;149;5;main pool-1-thread-28;main pool-2-thread-8;null;null
+96;Adam;39;132;59;95;5;main pool-1-thread-13;main pool-2-thread-2;null;null
+97;Jace;28;177;160;168;25;main pool-1-thread-19;null;main pool-2-thread-1;null
+98;Wesley;44;137;70;103;5;main pool-1-thread-1;main pool-2-thread-4;null;null
+99;Kayden;29;86;50;68;1;main pool-1-thread-35;null;null;null
+100;Silas;30;123;86;104;5;main pool-1-thread-13;main pool-2-thread-2;null;null
+101;Bennett;50;50;178;114;3;main pool-1-thread-35;null;null;null
+102;Declan;24;53;134;93;4;main pool-1-thread-1;null;null;null
+103;Waylon;37;99;84;91;4;main pool-1-thread-19;null;null;null
+104;Weston;47;51;148;99;3;main pool-1-thread-13;null;null;null
+105;Evan;29;182;199;190;25;main pool-1-thread-35;null;main pool-2-thread-2;null
+106;Emmett;23;71;191;131;2;main pool-1-thread-13;null;null;null
+107;Micah;50;209;51;125;25;main pool-1-thread-19;null;main pool-2-thread-4;main pool-3-thread-3
+108;Ryder;46;89;167;128;2;main pool-1-thread-35;null;null;null
+109;Beau;31;77;52;64;2;main pool-1-thread-1;null;null;null
+110;Damian;28;64;177;120;1;main pool-1-thread-19;null;null;null
+111;Brayden;26;189;173;181;25;main pool-1-thread-13;null;main pool-2-thread-1;null
+112;Gael;45;140;119;129;5;main pool-1-thread-35;main pool-2-thread-4;null;null
+113;Rowan;52;121;159;140;5;main pool-1-thread-1;main pool-2-thread-2;null;null
+114;Harrison;39;172;136;154;25;main pool-1-thread-19;null;main pool-2-thread-8;null
+115;Bryson;49;50;177;113;4;main pool-1-thread-13;null;null;null
+116;Sawyer;47;127;93;110;5;main pool-1-thread-35;main pool-2-thread-4;null;null
+117;Amir;25;85;59;72;0;main pool-1-thread-28;null;null;null
+118;Kingston;42;50;167;108;3;main pool-1-thread-1;null;null;null
+119;Jason;35;88;51;69;3;main pool-1-thread-13;null;null;null
+120;Giovanni;39;105;111;108;5;main pool-1-thread-13;main pool-2-thread-1;null;null
+121;Vincent;25;135;51;93;5;main pool-1-thread-28;main pool-2-thread-8;null;null
+122;Ayden;39;122;168;145;5;main pool-1-thread-1;main pool-2-thread-7;null;null
+123;Chase;48;135;153;144;5;main pool-1-thread-35;main pool-2-thread-9;null;null
+124;Myles;40;138;80;109;5;main pool-1-thread-13;main pool-2-thread-6;null;null
+125;Diego;24;117;64;90;5;main pool-1-thread-19;main pool-2-thread-5;null;null
+126;Nathaniel;42;137;197;167;5;main pool-1-thread-35;main pool-2-thread-2;null;null
+127;Legend;21;96;103;99;2;main pool-1-thread-13;null;null;null
+128;Jonah;51;97;95;96;4;main pool-1-thread-19;null;null;null
+129;River;52;176;159;167;25;main pool-1-thread-35;null;main pool-2-thread-10;null
+130;Tyler;20;66;142;104;3;main pool-1-thread-1;null;null;null
+131;Cole;29;55;165;110;4;main pool-1-thread-13;null;null;null
+132;Braxton;23;160;80;120;25;main pool-1-thread-19;null;main pool-2-thread-2;null
+133;George;39;123;65;94;5;main pool-1-thread-35;main pool-2-thread-3;null;null
+134;Milo;29;181;198;189;25;main pool-1-thread-1;null;main pool-2-thread-4;null
+135;Zachary;29;78;78;78;0;main pool-1-thread-19;null;null;null
+136;Ashton;23;59;61;60;4;main pool-1-thread-13;null;null;null
+137;Luis;53;134;74;104;5;main pool-1-thread-1;main pool-2-thread-2;null;null
+138;Jasper;50;102;122;112;5;main pool-1-thread-19;main pool-2-thread-3;null;null
+139;Kaiden;23;185;165;175;25;main pool-1-thread-35;null;main pool-2-thread-9;null
+140;Adriel;28;104;53;78;5;main pool-1-thread-13;main pool-2-thread-10;null;null
+141;Gavin;26;179;117;148;25;main pool-1-thread-1;null;main pool-2-thread-6;null
+142;Bentley;49;134;195;164;5;main pool-1-thread-13;main pool-2-thread-2;null;null
+143;Calvin;42;145;200;172;5;main pool-1-thread-35;main pool-2-thread-5;null;null
+144;Zion;48;67;57;62;4;main pool-1-thread-19;null;null;null
+145;Juan;45;129;115;122;5;main pool-1-thread-1;main pool-2-thread-9;null;null
+146;Maxwell;34;58;189;123;1;main pool-1-thread-13;null;null;null
+147;Max;30;155;156;155;25;main pool-1-thread-35;null;main pool-2-thread-6;null
+148;Ryker;29;137;104;120;5;main pool-1-thread-19;main pool-2-thread-10;null;null
+149;Carlos;22;112;179;145;5;main pool-1-thread-1;main pool-2-thread-9;null;null
+150;Emmanuel;43;110;119;114;5;main pool-1-thread-19;main pool-2-thread-2;null;null
+151;Jayce;44;90;126;108;3;main pool-1-thread-35;null;null;null
+152;Lorenzo;47;137;105;121;5;main pool-1-thread-13;main pool-2-thread-6;null;null
+153;Ivan;42;70;139;104;1;main pool-1-thread-1;null;null;null
+154;Jude;49;66;121;93;0;main pool-1-thread-28;null;null;null
+155;August;27;147;76;111;5;main pool-1-thread-19;main pool-2-thread-9;null;null
+156;Kevin;40;131;110;120;5;main pool-1-thread-1;main pool-2-thread-3;null;null
+157;Malachi;20;86;69;77;4;main pool-1-thread-28;null;null;null
+158;Elliott;39;181;147;164;25;main pool-1-thread-19;null;main pool-2-thread-2;null
+159;Rhett;45;175;156;165;25;main pool-1-thread-1;null;main pool-2-thread-6;null
+160;Archer;24;177;69;123;25;main pool-1-thread-28;null;main pool-2-thread-9;null
+161;Karter;42;113;52;82;5;main pool-1-thread-13;main pool-2-thread-3;null;null
+162;Arthur;40;161;82;121;25;main pool-1-thread-35;null;main pool-2-thread-2;null
+163;Luka;20;119;73;96;5;main pool-1-thread-19;main pool-2-thread-6;null;null
+164;Elliot;24;139;58;98;5;main pool-1-thread-13;main pool-2-thread-9;null;null
+165;Thiago;23;78;68;73;4;main pool-1-thread-35;null;null;null
+166;Brandon;27;116;120;118;5;main pool-1-thread-19;main pool-2-thread-3;null;null
+167;Camden;45;139;148;143;5;main pool-1-thread-28;main pool-2-thread-10;null;null
+168;Justin;22;109;98;103;5;main pool-1-thread-1;main pool-2-thread-9;null;null
+169;Jesus;25;210;94;147;25;main pool-1-thread-35;null;main pool-2-thread-2;main pool-3-thread-1
+170;Maddox;27;128;148;138;5;main pool-1-thread-28;main pool-2-thread-3;null;null
+171;King;32;99;183;141;2;main pool-1-thread-19;null;null;null
+172;Theo;28;52;84;68;1;main pool-1-thread-35;null;null;null
+173;Enzo;39;132;60;96;5;main pool-1-thread-1;main pool-2-thread-2;null;null
+174;Matteo;30;58;192;125;4;main pool-1-thread-13;null;null;null
+175;Emiliano;51;177;144;160;25;main pool-1-thread-28;null;main pool-2-thread-3;null
+176;Dean;45;177;191;184;25;main pool-1-thread-19;null;main pool-2-thread-2;null
+177;Hayden;39;118;195;156;5;main pool-1-thread-1;main pool-2-thread-9;null;null
+178;Finn;34;122;79;100;5;main pool-1-thread-28;main pool-2-thread-3;null;null
+179;Brody;52;59;190;124;4;main pool-1-thread-19;null;null;null
+180;Antonio;32;154;62;108;25;main pool-1-thread-1;null;main pool-2-thread-2;null
+181;Abel;40;148;188;168;5;main pool-1-thread-13;main pool-2-thread-3;null;null
+182;Alex;34;76;67;71;2;main pool-1-thread-35;null;null;null
+183;Tristan;30;131;119;125;5;main pool-1-thread-28;main pool-2-thread-2;null;null
+184;Graham;51;93;61;77;1;main pool-1-thread-19;null;null;null
+185;Zayden;31;91;102;96;4;main pool-1-thread-1;null;null;null
+186;Judah;27;137;113;125;5;main pool-1-thread-14;main pool-2-thread-2;null;null
+187;Xander;44;65;159;112;4;main pool-1-thread-13;null;null;null
+188;Miguel;35;152;112;132;25;main pool-1-thread-14;null;main pool-2-thread-9;null
+189;Atlas;48;145;144;144;5;main pool-1-thread-19;main pool-2-thread-2;null;null
+190;Messiah;27;67;66;66;2;main pool-1-thread-1;null;null;null
+191;Barrett;21;88;144;116;3;main pool-1-thread-13;null;null;null
+192;Tucker;25;179;185;182;25;main pool-1-thread-35;null;main pool-2-thread-3;null
+193;Timothy;32;132;63;97;5;main pool-1-thread-1;main pool-2-thread-4;null;null
+194;Alan;40;97;51;74;4;main pool-1-thread-14;null;null;null
+195;Edward;45;137;104;120;5;main pool-1-thread-13;main pool-2-thread-8;null;null
+196;Leon;53;65;197;131;1;main pool-1-thread-35;null;null;null
+197;Dawson;24;107;151;129;5;main pool-1-thread-13;main pool-2-thread-8;null;null
+198;Eric;47;130;73;101;5;main pool-1-thread-14;main pool-2-thread-6;null;null
+199;Ace;32;167;101;134;25;main pool-1-thread-35;null;main pool-2-thread-4;null
+200;Victor;53;60;148;104;2;main pool-1-thread-1;null;null;null
